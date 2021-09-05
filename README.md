@@ -1,2 +1,2 @@
-# KEM_KeyboardExtenderMaker
+# KEM Keyboard Extender Maker
 KEM Keyboard Extender Maker
