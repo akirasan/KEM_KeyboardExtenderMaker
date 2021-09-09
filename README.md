@@ -35,3 +35,6 @@ El resto de componentes básicos:
 **setColor***** son métodos para configurar los leds RGBs de la base, de estado de reposo de las teclas y cuando son pulsados.
 
 **loop** es el método que inicia todo el control del keyboard de forma recurrente
+
+En PCBWay he compartido el proyecto:
+https://www.pcbway.com/project/shareproject/KE_M_Keyboard_Extender_Maker.html
