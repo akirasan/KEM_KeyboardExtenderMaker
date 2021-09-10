@@ -39,5 +39,10 @@ El resto de componentes básicos:
 # Configuración de las keys
 En el fichero **keys_config.h** hay que modificar la función que hay **setup_Keys()**, para indicar comportamiento de cada una de la teclas.
 
-En PCBWay he compartido el proyecto:
+
+# Opensource
+El proyecto es opensource y a parte de este repositorio, lo puedes encontrar también en mi blog:
+https://akirasan.net/kem-keyboard-extender-maker/
+
+...y en PCBWay he compartido el proyecto:
 https://www.pcbway.com/project/shareproject/KE_M_Keyboard_Extender_Maker.html
