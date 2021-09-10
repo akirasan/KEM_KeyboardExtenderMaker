@@ -36,5 +36,8 @@ El resto de componentes básicos:
 
 **loop** es el método que inicia todo el control del keyboard de forma recurrente
 
+# Configuración de las keys
+En el fichero **keys_config.h** hay que modificar la función que hay **setup_Keys()**, para indicar comportamiento de cada una de la teclas.
+
 En PCBWay he compartido el proyecto:
 https://www.pcbway.com/project/shareproject/KE_M_Keyboard_Extender_Maker.html
